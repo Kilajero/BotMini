@@ -1,0 +1,32 @@
+Python Version 3.12 
+
+1) settings.ini 
+
+Change Token and Super Admin and set withdraw addresses
+
+[settings]
+token=
+main_admin=
+withdraw_ltc =
+withdraw_usdt =
+
+2) Create Virtual Enviroment 
+
+ ----   python -m venv venv
+
+3) Activate Env
+
+ ----   Command Prompt: venv\Scripts\activate.bat
+ ----   PowerShell: .\venv\Scripts\Activate
+ ----   Mac/Linux: source venv/bin/activate
+
+4) for insttaling packages in venv 
+
+    pip install -r requirements.txt
+
+5) For starting Script!
+
+python main.py 
+
+
+Enjoy!
