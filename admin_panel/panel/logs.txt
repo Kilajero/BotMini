@@ -1,0 +1,5 @@
+[2025-01-29 17:09:48] User id5312882968 was authorized as MAIN ADMIN
+[2025-01-29 17:09:48] Updating usernames is turn off
+[2025-01-29 17:09:48] Updating activity is turn off
+[2025-01-29 17:09:48] @test_order_1_bot has been started
+==============================================================================
